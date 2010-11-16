@@ -1,0 +1,12 @@
+Entity Id,Display Name,Display Name Plural,Entity Index,Read Authorization,Write Authorization,Allow Custom Views,Info Page Url,Info Page Title,Notes,Hide Created On,Hide Updated On,Hide Notes,Add Created By,Add Last Modified By,Hide In Left Panel
+,Campaign,Campaigns,1,user,user,False,,,,False,False,False,False,False,False
+,Vendor,Vendors,5,user,user,False,,,,False,False,False,False,False,False
+,Product,Products,10,user,user,False,,,,False,False,False,False,False,False
+,Lead,Leads,15,user,user,False,,,,False,False,False,False,False,False
+,Account,Accounts,20,user,user,False,,,,False,False,False,False,False,False
+,Contact,Contacts,25,user,user,False,,,,False,False,False,False,False,False
+,Opportunity,Opportunities,30,user,user,False,,,,False,False,False,False,False,False
+,Solution,Solutions,35,user,user,False,,,,False,False,False,False,False,False
+,Case,Cases,40,user,user,False,,,,False,False,False,False,False,False
+,Task,Tasks,45,user,user,False,,,,False,False,False,False,False,False
+,"Call Log","Call Logs",50,user,user,False,,,,False,False,False,False,False,False
